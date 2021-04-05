@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/rolando167/PortafolioNextjs/issues"
   },
-  "homepage": "https://github.com/rolando167/PortafolioNextjs#readme"
+  "homepage": "https://github.com/rolando167/PortafolioNextjs#readme",
+  "dependencies": {
+    "bootswatch": "^4.6.0",
+    "next": "^10.1.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
